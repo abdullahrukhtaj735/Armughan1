@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Drake Personal Portfolio were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/portfolio
+Data file = C:\xampp\htdocs\portfolio/wp-content/uploads/2023/10/demo-content-import-file_2023-10-27__10-06-49.xml
+Widget file = C:\xampp\htdocs\portfolio/wp-content/uploads/2023/10/demo-widgets-import-file_2023-10-27__10-06-49.json
+Customizer file = C:\xampp\htdocs\portfolio/wp-content/uploads/2023/10/demo-customizer-import-file_2023-10-27__10-06-49.dat
+Redux files:
+drake_options -> C:\xampp\htdocs\portfolio/wp-content/uploads/2023/10/demo-redux-import-file_0-2023-10-27__10-06-49.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: drake_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
